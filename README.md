@@ -13,7 +13,7 @@ This script was built to solve a real business problem I faced as an insurance a
 ## Key Features
 
 - **Bulk Form Filling**: Reads a list of claims (sinistros) from an Excel file (`tabela.xlsx`) and inserts them one by one into Bitrix24.
-- **Efficiency Gain**: Reduces a 2+ hour manual task to a 10‑second automated execution.
+- **Efficiency Gain**: Reduces a 10+ hour manual task to a 1 hour automated execution.
 - **Error Reduction**: Avoids typos and inconsistent data entry that often occur with manual input.
 - **Reusable & Configurable**: The script can be easily adapted to other forms or datasets by modifying column mappings.
 
@@ -43,7 +43,7 @@ bitrix-form-automation-python/
 
 ## Business Impact
 
-- **Time Saved**: ~2 hours per day → **10 hours per week** returned to higher-value tasks.
+- **Time Saved**: 2 hours per day → **10 hours in week** returned to higher-value tasks.
 - **Data Quality**: 100% consistent formatting, zero manual typos.
 - **Scalable**: Works with any list of claims, regardless of size.
 
