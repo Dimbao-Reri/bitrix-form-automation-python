@@ -34,3 +34,35 @@ This script was built to solve a real business problem I faced as an insurance a
 4. **Confirmation**: The script logs successful insertions and reports any failures for review.
 
 ## Project Structure
+
+bitrix-form-automation-python/
+├── sinistro.py # Main script: reads Excel and controls automation
+├── auxiliar.py # Helper functions (data cleaning, mappings)
+├── tabela.xlsx # Example dataset (claims list)
+└── README.md # This file
+## Screenshot
+
+![Before and After Automation](automation_comparison.png)
+*(If available, add a screenshot comparing manual form vs. the automated execution log.)*
+
+## Business Impact
+
+- **Time Saved**: ~2 hours per day → **10 hours per week** returned to higher-value tasks.
+- **Data Quality**: 100% consistent formatting, zero manual typos.
+- **Scalable**: Works with any list of claims, regardless of size.
+
+## Why This Matters for a Data Analyst
+
+This project demonstrates the ability to:
+- Identify a real business bottleneck and solve it with **data-driven automation**.
+- Use **Python and Pandas** for ETL (Extract, Transform, Load) operations.
+- Apply critical thinking to improve **process efficiency** — a core skill for any analyst working with business stakeholders.
+- Document a technical solution clearly, showing strong **stakeholder communication** skills.
+
+---
+
+> *"The best data analyst is one who not only analyzes data, but also builds the pipelines that make data clean and accessible."*
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/paulogracadados/) | [GitHub](https://github.com/Dimbao-Reri)
