@@ -40,10 +40,6 @@ bitrix-form-automation-python/
 ├── auxiliar.py # Helper functions (data cleaning, mappings)
 ├── tabela.xlsx # Example dataset (claims list)
 └── README.md # This file
-## Screenshot
-
-![Before and After Automation](automation_comparison.png)
-*(If available, add a screenshot comparing manual form vs. the automated execution log.)*
 
 ## Business Impact
 
